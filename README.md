@@ -46,4 +46,5 @@ Modify the database and table names in the SQL code to match the names of the da
 **Execute the SQL code to clean the dataset**
 
 **Acknowledgements**
-The Nashville house pricing dataset was obtained from the Nashville Open Data Portal (https://data.nashville.gov/). The SQL code used to clean the dataset was created by Samhita Kolichala.
+
+The SQL code used to clean the dataset was created by Samhita Kolichala.
