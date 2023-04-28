@@ -24,24 +24,20 @@ Longitude
 
 The SQL code in this repository was used to clean the dataset by performing the following tasks:
 
-Removing duplicate records.
-Dropping irrelevant columns.
-Standardizing and formatting the data in the SaleDate column.
-Populating the property address data.
-Extracting 'address','city','state' from Property Address column.
-The SQL code was executed on the dataset using a SQL Server.
+~Removing duplicate records.
+~Dropping irrelevant columns.
+~Standardizing and formatting the data in the SaleDate column.
+~Populating the property address data.
+~Extracting 'address','city','state' from Property Address column.
+~The SQL code was executed on the dataset using a SQL Server.
 
 **Files**
 The following file is included in this repository:
 
-**data cleaning project.sql**: SQL code used to clean the Nashville house pricing dataset.
+**data cleaning project.sql**:
 
-**Instructions**
-To use the SQL code in this repository, follow these steps:
+SQL code used to clean the Nashville house pricing dataset.
 
-Create a MySQL database and import the dataset into the database.
-Open data cleaning project.sql in a SQL editor.
-Modify the database and table names in the SQL code to match the names of the database and table in which you imported the dataset.
 
 **Execute the SQL code to clean the dataset**
 
